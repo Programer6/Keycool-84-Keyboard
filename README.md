@@ -1,5 +1,7 @@
 # Keycool-84-Keyboard
 
+Please not that this project is till under development!
+
 # STM32-Ortho6x16 - A Custom Mechanical Keyboard
 
 ## Table of Contents
