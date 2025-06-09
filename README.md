@@ -34,8 +34,8 @@ The STM32-Ortho6x16 is a custom-designed and hand-built mechanical keyboard feat
 *   **Custom 6x16 Key Matrix:** (Up to 96 keys) Configurable layout via QMK.
 *   **STM32F072CBT6 Microcontroller:** Powerful Arm Cortex-M0 MCU.
 *   **QMK Firmware:** Fully programmable and customizable.
-*   **Per-Key Addressable RGB Lighting:** WS2812B LEDs for vibrant lighting effects. The schematic shows D85-D96 (12 LEDs visible).
-*   **SSD1306 OLED Display (128x32):** Shows current layer, lock key status, and RGB status.
+*   **Per-Key Addressable RGB Lighting:** WS2812B LEDs 12 LEDs in total.
+*   **SSD1306 OLED Display (128x32):** Shows current layer, lock key status, and RGB status.(Can be customized to you liking)
 *   **USB-C Connectivity:** Modern and robust connector.
 *   **Hardware Reset Button & Boot0 Pin Access:** For easy firmware flashing.
 *   **ESD Protection:** On USB data lines (U2 - PRTR5V0U2X).
